@@ -1,15 +1,28 @@
 project:
   type: website
+  resources: 
+    - cv.pdf
 
 website:
   title: "Matheus Zanetti"
+  site-url: https://matheuszanetti.com
   navbar:
     left:
-      - href: index.qmd
+       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research/index.qmd
+        text: Research
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: cv.pdf
+        text: CV                 # abre o PDF direto
+      - href: contact/index.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
+    css: styles.css
     toc: true
+
+    editor:source
