@@ -1,10 +1,10 @@
 /* css styles */
-/* Justificar texto apenas onde eu usar a classe .justify */
-.justify,
-.justify p,
-.justify li {
-  text-align: justify;
+/* ----- Force justify inside article content ----- */
+.quarto-article .justify,
+.quarto-article .justify p,
+.quarto-article .justify li {
+  text-align: justify !important;
   text-justify: inter-word;
   hyphens: auto;
-  -webkit-hyphens: auto; /* Safari */
+  -webkit-hyphens: auto;
 }

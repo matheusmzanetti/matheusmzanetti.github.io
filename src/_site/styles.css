@@ -1,5 +1,10 @@
 /* css styles */
-.justify, .justify p, .justify li {
-  text-align: justify;
-  hyphens: auto;           /* nicer line breaks */
+/* ----- Force justify inside article content ----- */
+.quarto-article .justify,
+.quarto-article .justify p,
+.quarto-article .justify li {
+  text-align: justify !important;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
 }
