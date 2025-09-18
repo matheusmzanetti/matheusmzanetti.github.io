@@ -1,6 +1,6 @@
 project:
   type: website
-  resources: 
+  resources:
     - cv.pdf
 
 website:
@@ -8,14 +8,14 @@ website:
   site-url: https://matheuszanetti.com
   navbar:
     left:
-       - href: index.qmd
+      - href: index.qmd
         text: Home
       - href: research/index.qmd
         text: Research
       - href: teaching/index.qmd
         text: Teaching
       - href: cv.pdf
-        text: CV                 # abre o PDF direto
+        text: CV
       - href: contact/index.qmd
         text: Contact
 
@@ -25,4 +25,4 @@ format:
     css: styles.css
     toc: true
 
-    editor:source
+editor: source
