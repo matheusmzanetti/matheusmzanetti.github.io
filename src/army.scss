@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+/* Verde militar (Army Green) */
+$primary:        #4B5320;  // army green
+$success:        #3B5E2B;  // variação
+$info:           #5C755E;
+$warning:        #867B2E;
+$danger:         #7B3B3B;
+
+/* Navbar com fundo verde e texto claro */
+$navbar-bg:            $primary;
+$navbar-dark-color:    #ffffff;
+$navbar-dark-hover-color: #eaeaea;
+
+/* Links no site */
+$link-color:           $primary;
+$link-hover-color:     darken($primary, 7%);
+
+/* Botões primários */
+$btn-primary-bg:       $primary;
+$btn-primary-border-color: $primary;
