@@ -3,7 +3,7 @@ title: "Contact"
 toc: false
 ---
 
-**Matheus Zanetti** 
+Matheus Zanetti 
 
 Department of Political Science
 
@@ -18,4 +18,4 @@ Florida State University
 Tallahassee, FL 32306-2230
 
 
-**Email: mmoreirazanetti@fsu.edu**
+Email: mmoreirazanetti@fsu.edu

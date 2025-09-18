@@ -1,1 +1,5 @@
 /* css styles */
+.justify, .justify p, .justify li {
+  text-align: justify;
+  hyphens: auto;           /* nicer line breaks */
+}

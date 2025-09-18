@@ -2,16 +2,16 @@
 title: ""
 ---
 ![](foto.jpeg){.d-block .mx-auto .img-fluid .mt-3 .mb-4 style="max-width: 320px; width: 100%; height: auto;" alt="Matheus Zanetti"}
-
-
-Hello, I'm I’m a Ph.D. student in the Department of Political Science at Florida State University.  
+::: {.justify}
+Hello, I'm a Ph.D. student in the Department of Political Science at Florida State University.
 
 Before starting my doctoral program at FSU, I earned a master’s degree in law, a law degree, and a degree in International Relations from Pontifícia Universidade Católica de Minas Gerais (PUC Minas), Brazil.
 
 I study judicial politics and political behavior, focusing on:
-how judges’ individual characteristics shape judicial decision-making;
-descriptive representation in judging and how the public perceives judges’ identities;
-public opinion about courts and how citizens respond to institutional symbols;
-judicial elections, interbranch conflict, and attacks on courts.
+- how judges’ individual characteristics shape judicial decision-making;
+- descriptive representation in judging and how the public perceives judges’ identities;
+- public opinion about courts and how citizens respond to institutional symbols; 
+- judicial elections.
 
 Feel free to contact me at mmoreirazanetti@fsu.edu
+:::

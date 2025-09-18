@@ -1,5 +1,31 @@
 ---
-title: "index"
-format: html
+title: "Research"
+toc: false
 ---
 
+<div class="research">
+
+## Publications (Peer-Reviewed)
+
+
+## Chapters in Edited Collections
+
+
+
+## Working Papers
+
+
+
+## Publications (Non Peer-Reviewed)
+
+
+
+## Portuguese / Publications (Peer-Reviewed)
+
+
+
+## Portuguese / Books and Chapters in Edited Collections
+
+
+
+</div>
