@@ -1,7 +1,9 @@
 project:
   type: website
   resources:
+    - CNAME
     - cv.pdf
+    - foto.jpeg
 
 website:
   title: "Matheus Zanetti"
@@ -21,10 +23,11 @@ website:
 
 format:
   html:
-    theme: 
-     - flatly
-     - army.scss
+    theme:
+      - flatly
+      - army.scss
     css: styles.css
     toc: true
 
+lang: en
 editor: source
