@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bem-vindo",
+    "section": "",
+    "text": "Olá!\nEste é o meu site feito com Quarto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Algumas linhas sobre você, projeto, CV etc."
+  }
+]
