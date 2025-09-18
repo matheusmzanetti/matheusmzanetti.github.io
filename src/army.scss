@@ -19,3 +19,24 @@ $link-hover-color:     darken($primary, 7%);
 /* Botões primários */
 $btn-primary-bg:       $primary;
 $btn-primary-border-color: $primary;
+
+/* ----- Navbar: force colors (Bootstrap 5 vars) ----- */
+.navbar {
+  --bs-navbar-color: #ffffff;
+  --bs-navbar-hover-color: #eaeaea;
+  --bs-navbar-active-color: #ffffff;
+  --bs-navbar-brand-color: #ffffff;
+  --bs-navbar-brand-hover-color: #ffffff;
+}
+
+/* Fallback extra (garante mesmo se as vars não pegarem) */
+.navbar .nav-link,
+.navbar .navbar-brand { color: #fff !important; }
+
+.navbar .nav-link:hover { color: #eaeaea !important; }
+
+.navbar .nav-link.active,
+.navbar .show > .nav-link {
+  color: #fff !important;
+  border-bottom: 2px solid rgba(255,255,255,.85); /* sublinhado discreto do ativo */
+}
